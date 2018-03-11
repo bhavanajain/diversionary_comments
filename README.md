@@ -3,5 +3,5 @@ Built a python pipeline to preprocess blog posts (lemmatization, coreference res
 
 Please find the problem statement, discussion of the solution and the pipeline design [here](report.pdf).
 
-# Pipeline of the proposed method
+# Pipeline
 ![Pipeline](img/pipeline.png)
